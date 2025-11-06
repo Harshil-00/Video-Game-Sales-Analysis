@@ -1,2 +1,2 @@
-# Video-Game-Sales-Analysis
-Video game sales analysis dashboard project
+# Video-Game-Sales-Data-Analysis
+Video game sales data analysis dashboard project
